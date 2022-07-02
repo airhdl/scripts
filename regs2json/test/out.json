@@ -1,0 +1,194 @@
+{
+  "jsonVersion": 2,
+  "registerMap": {
+    "name": "my_map",
+    "description": "",
+    "width": 32,
+    "baseAddress": 0,
+    "addrWidthBits": 32,
+    "revision": 1,
+    "generateRecordPorts": false,
+    "registers": [
+      {
+        "type": "Register",
+        "name": "REG_0",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 0,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_1",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 4,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_2",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 8,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_3",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 12,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_4",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 16,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_5",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 20,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_6",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 24,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_7",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 28,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_8",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 32,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      },
+      {
+        "type": "Register",
+        "name": "REG_9",
+        "description": "",
+        "access": "READ_WRITE",
+        "addressOffset": 36,
+        "size": 32,
+        "fields": [
+          {
+            "name": "value",
+            "description": "",
+            "bitWidth": 32,
+            "bitOffset": 0,
+            "reset": 0,
+            "selfClear": false
+          }
+        ]
+      }
+    ]
+  }
+}
