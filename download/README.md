@@ -14,6 +14,8 @@ Usage:
    python download.py 176820 vhdlComponent
 ```
 
+The `register_map_id` argument is the ID of the airhdl register map, which you can extract from the URL of the corresponding register map view in `airhdl.com`. For example the register map view at `https://airhdl.com/#/registerMap/176820` corresponds to the register map ID `176820`.
+
 List of supported values for the `file_type` argument:
 
 | `file_type` | Description |
