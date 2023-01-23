@@ -34,3 +34,10 @@ List of supported values for the `file_type` argument:
 | `ipxact` | IP-XACT XML | 
 | `json` | JSON |
 | `all` | all files (zip archive) |
+
+In your local copy of the `download.py` script, please make sure to update the following variables with your `airhdl.com` credentials before using the script:
+
+```python
+USERNAME = "XXX"
+PASSWORD = "XXX"
+```
