@@ -105,7 +105,6 @@ if __name__ == "__main__":
     resp = urllib.request.urlopen(req, timeout=5)
     assert resp.status == 200
     resp_headers = resp.getheaders()
-    resp_content_type = resp.getheader('Content-Type')
 
     # Save the downloaded file
     suffix = FILE_TYPES[file_type][0]
